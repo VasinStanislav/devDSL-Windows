@@ -1,0 +1,8 @@
+main_programm() {
+    x = 4
+    if (x <= 5) {
+        print("x is ", x)
+    }
+
+    num = 2; num2 = num + 1
+}
